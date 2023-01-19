@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sourishpramanick
 - 👀 I’m interested in Embedded Control projects, automotive software development.
-- 🌱 I’m currently studying M.Sc Embedded Systems Engineering at Uni Freiburg, Germany. 
+- 🌱 I’m currently studying M.Sc Embedded Systems Engineering at Uni Freiburg, Germany. Also an Exchange student at Karlsruhe Institute of Technology. 
 - 📫 Reach me at sourish.pramanik10@gmail.com, sourish.pramanick@students.uni-freiburg,de
 
 <!---
